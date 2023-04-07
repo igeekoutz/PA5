@@ -1,0 +1,31 @@
+
+scarlion Logged In
+ 	Customer Started Ticket Purchase
+ 	User Left Flight Menu
+ 	User left Ticket Purchase Menu
+ 	User left Ticket Purchase
+ 	Customer Started Ticket Purchase
+ 	Customer chose Flight ID: 1
+ 	User Purchased a Ticket for Flight ID: 1, Class:Main Cabin, Num of Tickets: 2
+ 	Customer Viewed Tickets Purchased
+ 	Customer Started Ticket Purchase
+ 	User Left Flight Menu
+ 	User left Ticket Purchase Menu
+ 	User left Ticket Purchase
+ 	Customer went back to Main Menu
+danielmejia Logged In
+ 	User viewed Airport information with code: ELP
+ 	Employee viewed airport Information
+ 	User viewed Airport information with code: DFW
+ 	Employee viewed airport Information
+ 	Employee went to the Automatic Ticket menu
+ 	User ran the ticket automation with the 10k file
+ 	Employee started Electronic Ticket Menu
+    Printed Electronic Ticket For: alejnadroolivas
+ 	Employee started Electronic Ticket Menu
+    Printed Electronic Ticket For: scarlion
+ 	Employee started Electronic Ticket Menu
+    Printed Electronic Ticket For: donaldduck
+ 	Employee went back to Main Menu
+Wrote new files with updated information!
+User Quit!
